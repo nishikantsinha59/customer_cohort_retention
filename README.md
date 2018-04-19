@@ -17,7 +17,7 @@ Instructions for runninng customer cohort retention system
 
       1) Set up Bigquery API on Google Cloud Platform.
       2) Create dataset with Bigquery and import your data by creating table in your dataset.
-      3) Open cohortRetention.R file in RStudio.
+      3) Open cohortRetention.R script file in RStudio.
       4) Change the Project ID in this R script with your Bigquery Project ID.
       5) Change the table name accoding to your Bigquery table in the query. My table name is `my-project-xxxxxxxx.perpule.jugnoo` .
       6) Save the changes done iin R script.
