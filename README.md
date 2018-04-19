@@ -24,10 +24,10 @@ Instructions for runninng customer cohort retention system
       7) Run the cohortRetention.R script file using source("cohortRetention.R") command.
       8) The system will ask for the interval of Cohort Retention, then enter Week/2Weeks/Month/2Months/Quarter/etc.
       9) The system will check for valid input, if it is invalid then execution will be terminated else it will continue execution.
-      9) Click allow when it will prompt you for your permission to set up authentication.
-      10) It will automatically save the Cohort Retention in your currently working directory as .csv file.
-      11) Finally one Heatmap will be displayed in RStudio for your Customer Cohort Retention.
-      12) You can exit the  system any time by pressing "esc" key.
+      10) Click allow when it will prompt you for your permission to set up authentication.
+      11) It will automatically save the Cohort Retention in your currently working directory as .csv file.
+      12) Finally one Heatmap will be displayed in RStudio for your Customer Cohort Retention.
+      13) You can exit the  system any time by pressing "esc" key.
       
 You can also checkout sample Cohort Retention Heatmap present in this repository for reference and better understanding.
 
