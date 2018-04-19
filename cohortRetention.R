@@ -1,5 +1,5 @@
 # Set your project ID here
-project <- "my-project-1503433822077" # replace this with your project ID here
+project <- "my-project-xxxxxxxxxxxxx" # replace this with your project ID here
 
 # Set the working directory
 #setwd('F://Data Science//perpule_assignment')
