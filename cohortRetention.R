@@ -73,7 +73,7 @@ varSQL <- sprintf("WITH visit_log AS
                   customerId,
                   orderId,
                   orderProcessingTime,
-                  EXTRACT(MONTH FROM orderProcessingTime) visitTime
+                  EXTRACT(%s FROM orderProcessingTime) visitTime
                   FROM `my-project-1503433822077.perpule.jugnoo` 
                   GROUP BY 1,2,3
                   )
